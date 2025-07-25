@@ -26,14 +26,16 @@
     "Microsoft.Compute/virtualMachines/extensions/read",
     "Microsoft.Compute/virtualMachines/extensions/write",
     "Microsoft.Web/sites/read",
+    "Microsoft.Web/sites/write",
     "Microsoft.Web/sites/functions/read",
     "Microsoft.Web/sites/functions/write",
-    "Microsoft.Web/sites/hostruntime/admin/token/action",
-    "Microsoft.Web/sites/config/list/action",
+    "Microsoft.Web/sites/functions/listKeys/action",
+    "Microsoft.Web/sites/config/read",
+    "Microsoft.Web/sites/config/write",
+    "Microsoft.Insights/components/read",
     "Microsoft.OperationalInsights/workspaces/read",
-    "Microsoft.OperationalInsights/workspaces/sharedKeys/action",
-    "Microsoft.OperationsManagement/solutions/read",
-    "Microsoft.Insights/components/read"
+    "Microsoft.OperationalInsights/workspaces/query/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": []
 }
