@@ -1,0 +1,19 @@
+{
+  "Name": "Spektra GHAS Lab RBAC",
+  "IsCustom": true,
+  "Description": "Minimal RBAC for GitHub Advanced Security lab and webhook integration.",
+  "Actions": [
+    "Microsoft.Web/sites/read",
+    "Microsoft.Web/sites/functions/read",
+    "Microsoft.Web/sites/functions/write",
+    "Microsoft.Web/sites/functions/invoke/action",
+    "Microsoft.Web/sites/listKeys/action",
+    "Microsoft.Web/sites/hostruntime/admin/token/action",
+    "Microsoft.Web/sites/config/list/action",
+    "Microsoft.OperationalInsights/workspaces/read",
+    "Microsoft.OperationalInsights/workspaces/sharedKeys/action",
+    "Microsoft.OperationsManagement/solutions/read",
+    "Microsoft.Insights/components/read"
+  ],
+  "NotActions": []
+}
