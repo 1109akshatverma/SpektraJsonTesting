@@ -31,6 +31,8 @@
     "Microsoft.Insights/components/*",
     "Microsoft.Insights/MetricNamespaces/read",
     "Microsoft.Insights/Metrics/read",
+    "Microsoft.Insights/diagnosticSettings/read",
+    "Microsoft.Insights/logs/read",
     "Microsoft.OperationalInsights/workspaces/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/deployments/*"
