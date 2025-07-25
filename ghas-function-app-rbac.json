@@ -27,6 +27,7 @@
     "Microsoft.Compute/virtualMachines/extensions/write",
     "Microsoft.Web/sites/read",
     "Microsoft.Web/sites/write",
+    "Microsoft.Web/ServerFarms/write",
     "Microsoft.Web/sites/functions/read",
     "Microsoft.Web/sites/functions/write",
     "Microsoft.Web/sites/functions/listKeys/action",
