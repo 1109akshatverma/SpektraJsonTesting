@@ -34,8 +34,7 @@
     "Microsoft.Web/sites/config/write",
     "Microsoft.Insights/components/read",
     "Microsoft.OperationalInsights/workspaces/read",
-    "Microsoft.OperationalInsights/workspaces/query/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.OperationalInsights/workspaces/query/read"
   ],
   "NotActions": []
 }
