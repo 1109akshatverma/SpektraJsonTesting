@@ -29,6 +29,8 @@
     "Microsoft.Web/ServerFarms/*",
     "Microsoft.Storage/storageAccounts/*",
     "Microsoft.Insights/components/*",
+    "Microsoft.Insights/MetricNamespaces/read",
+    "Microsoft.Insights/Metrics/read",
     "Microsoft.OperationalInsights/workspaces/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/deployments/*"
