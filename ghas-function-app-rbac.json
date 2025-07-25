@@ -28,7 +28,6 @@
     "Microsoft.Web/sites/read",
     "Microsoft.Web/sites/functions/read",
     "Microsoft.Web/sites/functions/write",
-    "Microsoft.Web/sites/listFunctionKeys/action",
     "Microsoft.Web/sites/hostruntime/admin/token/action",
     "Microsoft.Web/sites/config/list/action",
     "Microsoft.OperationalInsights/workspaces/read",
