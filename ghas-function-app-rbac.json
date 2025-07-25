@@ -27,12 +27,11 @@
     "Microsoft.Compute/virtualMachines/extensions/write",
     "Microsoft.Web/sites/*",
     "Microsoft.Web/ServerFarms/*",
-    "Microsoft.Storage/storageAccounts/write",
-    "Microsoft.Storage/storageAccounts/read",
-    "Microsoft.Storage/storageAccounts/listKeys/action",
+    "Microsoft.Storage/storageAccounts/*",
     "Microsoft.Insights/components/*",
-    "Microsoft.OperationalInsights/workspaces/read",
-    "Microsoft.OperationalInsights/workspaces/query/read"
+    "Microsoft.OperationalInsights/workspaces/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*"
   ],
   "NotActions": []
 }
